@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"thinkdecideact/src/apps/store"
+	"thinkdecideact/src/modules/store"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
